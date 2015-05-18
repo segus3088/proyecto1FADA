@@ -1,0 +1,24 @@
+Distribución Normal
+10
+Nombre1 dia 7 HoraInicio 5h HoraF 19h
+Nombre2 dia 1 HoraInicio 8h HoraF 18h
+Nombre3 dia 4 HoraInicio 19h HoraF 23h
+Nombre4 dia 6 HoraInicio 16h HoraF 19h
+Nombre5 dia 2 HoraInicio 8h HoraF 21h
+Nombre6 dia 2 HoraInicio 6h HoraF 20h
+Nombre7 dia 6 HoraInicio 9h HoraF 23h
+Nombre8 dia 6 HoraInicio 4h HoraF 12h
+Nombre9 dia 3 HoraInicio 2h HoraF 12h
+Nombre10 dia 7 HoraInicio 13h HoraF 21h
+Distribución Uniforme
+10
+Nombre1 dia 4 HoraInicio 15h HoraF 21h
+Nombre2 dia 4 HoraInicio 21h HoraF 12h
+Nombre3 dia 6 HoraInicio 17h HoraF 16h
+Nombre4 dia 3 HoraInicio 13h HoraF 11h
+Nombre5 dia 6 HoraInicio 16h HoraF 12h
+Nombre6 dia 5 HoraInicio 16h HoraF 11h
+Nombre7 dia 6 HoraInicio 13h HoraF 15h
+Nombre8 dia 5 HoraInicio 9h HoraF 22h
+Nombre9 dia 4 HoraInicio 14h HoraF 16h
+Nombre10 dia 6 HoraInicio 16h HoraF 17h
