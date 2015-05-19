@@ -35,9 +35,16 @@ public final class ProcesadorUniforme {
 		return (int)(((((long)finRango) - (long)inicioRango + 1) * dNormal.nextDouble()) + inicioRango);
 	}
 
+	private int getUniforme(int inicioRango, int finRango, double promedio, double variado){
+		Random dUniforme = new Random();
+
+		return (int)(((((long)finRango) - (long)inicioRango + 1) * dUniforme.nextDouble()) + inicioRango);
+	}
+
+
 	private void getHoras(){
 		int h1, h2;
-		h1 = this.getNormal(0,23);
+		h1 = this.getUniforme(0,23, 12, 2);
 		this.horaI = h1;
 
 		h2 = h1 + this.getNormal(1,12);
